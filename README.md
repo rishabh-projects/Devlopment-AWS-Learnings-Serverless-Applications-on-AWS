@@ -1,2 +1,2 @@
-# Cloud-Native-Dev-AWS-GCP-Azure-Serverless-Applications-on-AWS
-Cloud Native Dev AWS GCP Azure Serverless Applications on AWS
+## Devlopment AWS Learnings
+## Serverless Applications on AWS
