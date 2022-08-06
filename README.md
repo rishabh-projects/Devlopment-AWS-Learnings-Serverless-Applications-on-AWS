@@ -1,2 +1,2 @@
 ## Devlopment AWS Learnings
-## Serverless Applications on AWS
+## Server less Applications on AWS
